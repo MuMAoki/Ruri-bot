@@ -1,4 +1,5 @@
-# Ruri-bot
 <h1>RURI BOT ▲▲</h1>
 
-<p>"Proyek ini dibuat hanya untuk tujuan hobi dan saya sebagai fan Ruri Dragon. Karakter Ruri Dragon adalah milik Masaoki Shindo dan Shueisha. Dukung karya aslinya!"</p>
+<p>"This project is made only for hobby and I am a fan of Ruri Dragon. The Ruri Dragon character belongs to Masaoki Shindo and Shueisha. Support the original work!"</p>
+
+
