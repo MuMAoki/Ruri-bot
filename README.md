@@ -22,4 +22,4 @@
 ### 🚀 INSTALLATION 
 1. Clone repo ini:
    ```bash
-   git clone [https://github.com/username/Ruri-bot.git](https://github.com/username/Ruri-bot.git)
+   git clone https://github.com/MuMAoki/Ruri-bot
