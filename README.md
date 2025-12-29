@@ -23,3 +23,11 @@
 1. Clone repo ini:
    ```bash
    git clone https://github.com/MuMAoki/Ruri-bot
+
+### 🚀 Pilih Platform Instalasi
+Klik icon di bawah untuk langsung menuju panduan:
+
+| Termux (Android) | Debian (Linux) |
+| :---: | :---: |
+| < a href="#panduan-termux"><img src="https://upload.wikimedia.org/wikipedia/commons/b/b5/Termux.svg" width="80"></a> | <a href="#panduan-debian"><img src="https://img.icons8.com/color/96/debian.png" width="80"></a> |
+| [Lanjut ke Termux](#panduan-termux) | [Lanjut ke Debian](#panduan-debian) |
